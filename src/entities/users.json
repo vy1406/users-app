@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"username": "chandler",
+		"email": "chanlder@gmail.com",
+		"age": 32
+	},
+	{
+		"id": 2,
+		"username": "monica",
+		"email": "monica@gmail.com",
+		"age": 33
+	},
+	{
+		"id": 3,
+		"username": "joey",
+		"email": "joey@gmail.com",
+		"age": 34
+	},
+	{
+		"id": 4,
+		"username": "ross",
+		"email": "ross@gmail.com",
+		"age": 35
+	},
+	{
+		"id": 5,
+		"username": "rachel",
+		"email": "rachel@gmail.com",
+		"age": 36
+	},
+	{
+		"id": 6,
+		"username": "phoebe",
+		"email": "phoebe@gmail.com",
+		"age": 37
+	}
+]
